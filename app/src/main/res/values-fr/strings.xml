@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MonDevoir</string>
+    <string name="app_var1">Bienvenue</string>
+    <string name="app_var2">Entrer</string>
+</resources>
